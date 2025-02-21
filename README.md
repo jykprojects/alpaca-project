@@ -1,4 +1,4 @@
-# alpaca-project jk
+# alpaca-project
 
 # 🎮 TradeWhisperer: Your Playful Portfolio AI Companion
 
