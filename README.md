@@ -1,4 +1,4 @@
-# alpaca-project jk
+# alpaca-project jk-testing branch
 
 # 🎮 TradeWhisperer: Your Playful Portfolio AI Companion
 
